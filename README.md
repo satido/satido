@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there, traveler
+
+## 🪔 You may rest here for now...
 
 <!--
 **satido/satido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
