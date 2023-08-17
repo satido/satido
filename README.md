@@ -1,7 +1,7 @@
-# 🪔 Hello there traveler... You may rest here for now.
+# 🪔 Hello there traveler, I am Yiğit Ateş
+## You may rest here for now...
 
-![image](https://github.com/satido/satido/assets/99821619/9ec24fa2-0d79-4643-a33c-399c04d4efe8)
-
+![image](https://github.com/satido/satido/assets/99821619/ee076576-97ca-416c-b6af-7f417c85f44d)
 
 <!--
 **satido/satido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
