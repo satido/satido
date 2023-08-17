@@ -1,6 +1,7 @@
-# Hello there, traveler
+# 🪔 Hello there traveler... You may rest here for now.
 
-### 🪔 You may rest here for now...
+![image](https://github.com/satido/satido/assets/99821619/9ec24fa2-0d79-4643-a33c-399c04d4efe8)
+
 
 <!--
 **satido/satido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
