@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there traveler, I am Yiğit Ateş</h1>
+<h1 align="center">👋 Hello there traveler,</h1>
 <h2 align="center">You may rest here for now...</h3>
 <h4 align="center">Reach me: mya07.aa@proton.me</h4>
 
