@@ -1,5 +1,5 @@
-# 👋 Merhaba(); 
-# I'm Yiğit Ateş!
+# Merhaba(); 
+# 👋 I'm Yiğit Ateş!
 
 Welcome to my GitHub profile! I'm a full time student, passionate about designing games. Here, you'll find my projects related to mostly indie game dev and other fun stuff I'm interested in.
 
