@@ -8,7 +8,7 @@ I’m a aspiring software developer based in Turkey. When I’m not coding or cr
 ## 🚀 What I Do
 - 🔨 **Develop software**: Mostly game mods, content and games itself.
 - 🎶 **Create music**: Mostly hiphop, but trying out other styles as well!
-- 🏎️ **Race**: Doing karting IRL and designing liveries for virtual simracing esports teams.
+- 🏎️ **Race & design**: Doing karting IRL and designing liveries for virtual simracing esports teams.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, C#, C++, GDScript
