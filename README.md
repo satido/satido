@@ -12,7 +12,7 @@ I’m a aspiring software developer based in Turkey. When I’m not coding or cr
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, C#, C++, GDScript
-- **Tools**: Git <sub><sup>(well... obviously)</sup></sub>, VSCode, Godot, Unity, Photoshop, Shapr3D
+- **Tools**: VSCode, Godot, Unity, Photoshop, Shapr3D, Git <sub><sup>(well... obviously)</sup></sub>
 - **Music Production**: FL Studio 24, Samplette, Looperman
 
 ## 🌱 Currently Learning
